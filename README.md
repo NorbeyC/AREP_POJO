@@ -1,7 +1,7 @@
 
 
-https://infinite-hollows-62942.herokuapp.com/hello
+https://gentle-atoll-10140.herokuapp.com/hello
 
 
 
-https://infinite-hollows-62942.herokuapp.com/status
+
