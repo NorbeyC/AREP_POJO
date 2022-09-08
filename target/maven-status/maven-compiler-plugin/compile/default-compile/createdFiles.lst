@@ -1,0 +1,8 @@
+com\mycompany\microspringboot\MicroJunit.class
+com\mycompany\microspringboot\Test.class
+com\mycompany\microspringboot\JunitTest.class
+com\mycompany\microspringboot\HttpServer.class
+com\mycompany\microspringboot\MicroSpringBoot.class
+com\mycompany\microspringboot\RequestMapping.class
+com\mycompany\microspringboot\WebServices.class
+com\mycompany\microspringboot\Data.class
